@@ -203,7 +203,7 @@ static NSInteger _currentWindows = 0;
         self.profilePickerJs = appConfig.profilePickerJS;
     }
     
-    self.visitedLoginOrSignup = NO;
+    self.visitedLoginOrSignup = YES;
     
     if (self.initialWebview) {
         [self switchToWebView:self.initialWebview showImmediately:YES];
@@ -329,7 +329,7 @@ static NSInteger _currentWindows = 0;
     [LEANUtilities configureWebView:wv];
     
     [self.keyboardManager setTargetWebview:wv];
-    [self.keyboardManager showKeyboardAccessoryView:appConfig.showKeyboardAccessoryView];
+    [self.keyboardManager showKeyboardAccessoryView:NO];
     
     [self switchToWebView:wv showImmediately:NO];
     
