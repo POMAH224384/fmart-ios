@@ -18,7 +18,7 @@
     "publicKey": "jxxwke",
     "deviceRegKey": "1bvahda1ytafk7pa9qnu0vamxg",
     "appName": "F-MART",
-    "initialUrl": "http://mobile.hegow5im.beget.tech",
+    "initialUrl": "http://yopoxa93.beget.tech",
     "androidPackageName": "co.median.android.jxxwke",
     "iosBundleId": "co.median.ios.jxxwke",
     "keepScreenOn": null,
@@ -55,27 +55,27 @@
           "active": false,
           "items": [
             {
-              "url": "http://mobile.hegow5im.beget.tech/",
+              "url": "http://yopoxa93.beget.tech/",
               "label": "Демо готового интернет магазина",
               "subLinks": []
             },
             {
-              "url": "http://mobile.hegow5im.beget.tech/katalog-2",
+              "url": "http://yopoxa93.beget.tech/katalog-2",
               "label": "Каталог",
               "subLinks": []
             },
             {
-              "url": "http://mobile.hegow5im.beget.tech/#",
+              "url": "http://yopoxa93.beget.tech/#",
               "label": "",
               "subLinks": []
             },
             {
-              "url": "http://mobile.hegow5im.beget.tech/korzina/",
+              "url": "http://yopoxa93.beget.tech/korzina/",
               "label": "0₸\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tкорзина",
               "subLinks": []
             },
             {
-              "url": "http://mobile.hegow5im.beget.tech/katalog-2/",
+              "url": "http://yopoxa93.beget.tech/katalog-2/",
               "label": "Каталог",
               "subLinks": []
             }
@@ -138,7 +138,7 @@
           "mode": "internal",
           "label": "All pages on my domain",
           "pagesToTrigger": "domain",
-          "regex": "https?:\\/\\/([-\\w]+\\.)*hegow5im.beget.tech(\\/.*)?$"
+          "regex": "https?:\\/\\/([-\\w]+\\.)*yopoxa93.beget.tech(\\/.*)?$"
         },
         {
           "mode": "appbrowser",
