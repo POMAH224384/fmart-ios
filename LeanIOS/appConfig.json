@@ -18,7 +18,7 @@
     "publicKey": "jxxwke",
     "deviceRegKey": "1bvahda1ytafk7pa9qnu0vamxg",
     "appName": "F-MART",
-    "initialUrl": "http://yopoxa93.beget.tech",
+    "initialUrl": "http://test.yopoxa93.beget.tech",
     "androidPackageName": "co.median.android.jxxwke",
     "iosBundleId": "co.median.ios.jxxwke",
     "keepScreenOn": null,
@@ -138,7 +138,7 @@
           "mode": "internal",
           "label": "All pages on my domain",
           "pagesToTrigger": "domain",
-          "regex": "https?:\\/\\/([-\\w]+\\.)*yopoxa93.beget.tech(\\/.*)?$"
+          "regex": "https?:\\/\\/([-\\w]+\\.)*test.yopoxa93.beget.tech(\\/.*)?$"
         },
         {
           "mode": "appbrowser",
