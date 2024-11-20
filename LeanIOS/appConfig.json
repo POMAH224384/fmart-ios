@@ -273,10 +273,10 @@
         "animationFrameDark": null
       }
     },
-    "transitionInteractiveDelayMax": 0.2,
+    "transitionInteractiveDelayMax": 0,
     "menuAnimationDuration": 0.15,
     "disableAnimations": false,
-    "hideWebviewAlpha": 0.5,
+    "hideWebviewAlpha": 0.2,
     "iosDarkMode": "light",
     "iosTitleColor": "#0E0D08",
     "iosTitleColorDark": "#ffffff",
@@ -377,7 +377,7 @@
   },
   "services": {
     "oneSignalV5": {
-      "active": false
+      "active": true
     }
   },
   "contextMenu": {
